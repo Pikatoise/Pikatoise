@@ -27,49 +27,49 @@
 ---
 
 ## 🚀 Проекты
-### [Мои Финансы](https://github.com/stars/Pikatoise/lists/myfinances-projects)  
+>### 💵 [Мои Финансы](https://github.com/stars/Pikatoise/lists/myfinances-projects)  
 Android приложение представляющее собой финансового помощника, благодаря которому можно отслеживать все свои денежные операции, планировать покупки и получать фин. советы
 
 [ **Kotlin, ASP.NET Web API, PostgreSQL, Docker + Compose** ]
 
 
 
-### [MicToPng](https://github.com/Pikatoise/MicToPng)  
+>### 🔀 [MicToPng](https://github.com/Pikatoise/MicToPng)  
 ПО для массовой конвертации MIC изображений в PNG
 
 [ **WPF** ]
 
 
 
-### [Kitchen](https://github.com/Pikatoise/Kitchen)  
+>### 👩‍🍳 [Kitchen](https://github.com/Pikatoise/Kitchen)  
 Android приложение для кулинарных рецептов с возможностью делиться своими рецептами с другими
 
 [ **Kotlin, Supabase** ]
 
 
 
-### [ToDo](https://github.com/Pikatoise/ToDoWeb)  
+>### 📝 [ToDo](https://github.com/Pikatoise/ToDoWeb)  
 ToDo SPA приложение, для хранения своих задач с возможностями авторизации, разделение задач по темам и датам
 
 [ **React, ASP.NET Web API, PostgreSQL** ]
 
 
 
-### [Dino Game](https://github.com/Pikatoise/DinoGame)  
+>### 🐱‍🐉 [Dino Game](https://github.com/Pikatoise/DinoGame)  
 Игра Динозаврик 
 
 [ **WPF, SQLite** ]
 
 
 
-### [Computer Identificator](https://github.com/Pikatoise/ComputerIdentificator)  
+>### 🖥 [Computer Identificator](https://github.com/Pikatoise/ComputerIdentificator)  
 ПО предоставляющее сведения об аппаратном и сетевом обеспечении текущего ПК, позволяющее менять настройки сети и хранить данные об остальных устройствах 
 
 [ **WPF, MySQL** ]
 
 
 
-### [The-Witcher](https://github.com/Pikatoise/The-Witcher)  
+>### 📖 [The-Witcher](https://github.com/Pikatoise/The-Witcher)  
 Учебное пособие по игровой вселенной Ведьмак 
 
 [ **WinForms** ]
